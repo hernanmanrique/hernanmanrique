@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red?style=flat-square)](https://scholar.google.com/citations?user=6iDYX1AAAAAJ&hl=en&inst=1273811514435761252)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen?style=flat-square)](https://www.researchgate.net/profile/Hernan-Manrique)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green?style=flat-square)](https://orcid.org/0000-0003-1039-7518)
+[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/hern%C3%A1n-manrique-l%C3%B3pez-06ab8a199/)
+
+### Hi there, this is Hernán 👋
 
 <!--
 **hernanmanrique/hernanmanrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
