@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/hern%C3%A1n-manrique-l%C3%B3pez-06ab8a199/)
 
 ### Hi there, this is Hernán 👋
-I'm a Peruvian guy living in Belgium where I study and do research.
+I'm a Peruvian guy living in Belgium where I study and do research on coca cultivation and cocaine trafficking using mixed methods.
 
 <!--
 **hernanmanrique/hernanmanrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
